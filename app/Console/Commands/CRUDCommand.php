@@ -5,7 +5,7 @@ namespace App\Console\Commands;
 use Illuminate\Console\Command;
 use Illuminate\Support\Str;
 
-class CrudGeneratorCommand extends Command
+class CRUDCommand extends Command
 {
     /**
      * The name and signature of the console command.
