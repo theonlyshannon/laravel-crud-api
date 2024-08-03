@@ -5,7 +5,7 @@ namespace App\Console\Commands;
 use Illuminate\Console\Command;
 use Illuminate\Support\Str;
 
-class MakeApiCommand extends Command
+class APICommand extends Command
 {
     /**
      * The name and signature of the console command.
